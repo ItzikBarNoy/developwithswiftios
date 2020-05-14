@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Argentina",
+        "officialLanguages": ["Spanish"],
+        "population": 40117096,
+        "currency": "Peso",
+        "capitalCity": "Buenos Aires",
+        "flagImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1280px-Flag_of_Argentina.svg.png"
+    },
+    {
+        "name": "Australia",
+        "officialLanguages": ["English"],
+        "population": 25708500,
+        "currency": "Australian dollar",
+        "capitalCity": "Canberra",
+        "flagImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/800px-Flag_of_Australia_%28converted%29.svg.png"
+    },
+    {
+        "name": "Israel",
+        "officialLanguages": ["Hebrew"],
+        "population": 9196220,
+        "currency": "New shekel",
+        "capitalCity": "Jerusalem",
+        "flagImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/800px-Flag_of_Israel.svg.png"
+    },
+    {
+        "name": "Belgium",
+        "officialLanguages": ["Dutch", "French", "German"],
+        "population": 11515793,
+        "currency": "Euro",
+        "capitalCity": "Brussels",
+        "flagImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/800px-Flag_of_Belgium.svg.png"
+    },
+    {
+        "name": "Brazil",
+        "officialLanguages": ["Portuguese"],
+        "population": 2101471125,
+        "currency": "Real",
+        "capitalCity": "Brasília",
+        "flagImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/188px-Flag_of_Brazil.svg.png"
+    },
+    {
+        "name": "China",
+        "officialLanguages": ["Chinese"],
+        "population": 1427647786,
+        "currency": "Renminbi",
+        "capitalCity": "Beijing",
+        "flagImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/188px-Flag_of_the_People%27s_Republic_of_China.svg.png"
+    },
+    {
+        "name": "France",
+        "officialLanguages": ["French"],
+        "population": 67076000,
+        "currency": "Euro",
+        "capitalCity": "Paris",
+        "flagImage": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png"
+    },
+    {
+        "name": "Germany",
+        "officialLanguages": ["German"],
+        "population": 83149300,
+        "currency": "Euro",
+        "capitalCity": "Berlin",
+        "flagImage": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.svg.png"
+    }
+]
